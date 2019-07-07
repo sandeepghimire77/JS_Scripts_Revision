@@ -100,8 +100,8 @@ let users1 = {
   }
 };
 
- /* for (let user in users1) {
-  console.log(user);
+/* for (let user in users1) {
+ console.log(user);
 
 
 
@@ -113,10 +113,10 @@ console.log(users1.Alan.age); */
 
 
 
- function countOnline(obj) {
+function countOnline(obj) {
 
   for (let user in obj) {
-   console.log(user);
+    console.log(user);
 
 
   };

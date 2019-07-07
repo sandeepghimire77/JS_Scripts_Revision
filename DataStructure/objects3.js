@@ -1,4 +1,3 @@
-
 // Basic Data Structures: Modify an Array Stored in an Object
 let user = {
   name: 'Kenneth',

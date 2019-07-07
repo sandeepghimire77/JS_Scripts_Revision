@@ -20,12 +20,8 @@ let users = {
 };
 
 function getArrayOfUsers(obj) {
-  // change code below this line
-
   console.log(Object.keys(obj));
   console.log(Object.values(obj));
-
-  // change code above this line
 }
 
 console.log(getArrayOfUsers(users));
